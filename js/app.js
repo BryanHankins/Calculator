@@ -26,7 +26,7 @@ TODO:
       oldNum = "", // First number
       resultNum, // Result
       operator; // Batman
-  
+      
     // When: Number is clicked. Get the current number selected
     var setNum = function() {
       if (resultNum) { // If a result was displayed, reset number
